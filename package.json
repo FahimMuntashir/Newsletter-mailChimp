@@ -1,0 +1,24 @@
+{
+  "name": "mailchimp",
+  "version": "1.0.0",
+  "description": "using mailchimp api for any newsletter website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FahimMuntashir/Newsletter--mailChimp.git"
+  },
+  "keywords": [
+    "mailchimp",
+    "api",
+    "newsletter"
+  ],
+  "author": "Fahim Muntashir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FahimMuntashir/Newsletter--mailChimp/issues"
+  },
+  "homepage": "https://github.com/FahimMuntashir/Newsletter--mailChimp#readme"
+}
